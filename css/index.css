@@ -330,3 +330,144 @@ footer{
 	margin-right: 30px; 
 	color: #66686b;
 }
+.fifthpage { margin-top: 90px;
+ }
+ #Approach{
+ 	font-size: 35px;
+ 	color: #e01d4a;
+ }
+ #Our{
+ 	margin-top: 90px;
+ }
+ #service{
+ 	margin-top: 90px;
+ }
+ #serv{
+ 	margin-top: 90px;
+ }
+ .para{
+ 	font-size: 100px;
+ }
+ .hrithik {
+	margin-left: 400px;
+	border-radius: 50%;
+	height: 75px;
+	float: left;
+}
+.hrithik1 { 
+	margin-left: 400px;
+	font-size: 18px; 
+	margin-top: 16px; 
+	color: #808080;
+}
+.hrithik_para {
+	color: #808080;
+	font-size: 1.5rem;
+    font-style: italic;
+    text-align: center; 
+}
+.testimonial{
+	margin-top: 90px;
+}
+#slide { 
+background-color: red;
+width: 150px;
+height: 80px;
+ }
+ #blo{
+ 	color:#fc468c; 
+ 	font-size:17px;
+ }
+ #our{
+ 	color:#fc468c; 
+ 	font-size:30px;
+ 	margin-left: 100px;
+ }
+ #loren{
+ 	color:#fc468c; 
+ 	font-size:15px;
+ }
+ .brook{
+ 	color: #c4c2c3;
+ 	font-size: 12px;
+ }
+ .dolor{
+ 	color: #666363;
+ 	font-size: 17px;
+ }
+ .littel {
+	width:  90%;
+	height: 40px;
+	border-radius: 50px;
+	border: solid 1px #66686b;
+}
+.big {
+	width:  97%;
+	height: 40px;
+	border-radius: 50px;
+	border: solid 1px #66686b;
+}
+.formbutton {
+ background-color: #e81050;
+ border-color: #e81050;
+  margin-top: -30px;
+  margin-left: 100px;
+   }
+.formbutton:hover {
+	background-color: white;
+	color:#e81050;
+}
+.Address{
+	font-size: 16px;
+}
+.btn {  
+	color: white;
+	margin-top: 24px;
+	font-size: 16px;
+}
+.Add {
+	font-size: 16px;
+	color: #808080;
+	font-weight: bold;
+}
+.aboutus{  
+	color: white;
+	margin-top: 124px;
+	font-size: 16px;
+}
+.lines { 
+	color: #737373;
+	font-size: 16px;
+	margin-top: 16px;
+}
+.footerbutton {
+	height: 32px;
+	background-color: #e81050;
+	font-size: 20px;
+	border-color: #e81050;
+	color: black;
+	padding: 0 20px 0 20px;
+	border-radius: 0 25px 25px 0;
+}
+.inside {
+	border-radius: 50px 0 0 50px;
+	width: 200px;
+	height: 40px;
+	background-color: #333333;
+	border: solid 1px #66686b;
+	border-right: solid #333333;
+	padding-left: 10px;
+}
+.middle{
+ text-align: center;
+  }
+.black {
+ background-color: #333333;
+ height: 400px;
+  }
+#right{
+	margin-top: 200px;
+  /**/}
+#contact{
+	background-color: #edeff2;
+}
