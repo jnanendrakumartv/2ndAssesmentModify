@@ -396,13 +396,13 @@ height: 80px;
  	font-size: 17px;
  }
  .littel {
-	width:  90%;
-	height: 40px;
+	width:  85%;
+	height: 35px;
 	border-radius: 50px;
 	border: solid 1px #66686b;
 }
 .big {
-	width:  97%;
+	width:  93%;
 	height: 40px;
 	border-radius: 50px;
 	border: solid 1px #66686b;
@@ -466,8 +466,27 @@ height: 80px;
  height: 400px;
   }
 #right{
-	margin-top: 200px;
+	margin-top: 100px;
+	border:1px solid #9b9da0;
+	padding-top: 30px;
+	margin-bottom: 100px;
+	margin-left: 70px;
   /**/}
 #contact{
 	background-color: #edeff2;
+}
+#left{
+	border:1px solid #9b9da0;
+}
+#copyright{
+	text-align:center;
+	margin-left: 300px;
+}
+#area{
+	margin-left: 100px;
+}
+#final{
+	margin-left: 220px;
+	width: 150px;
+	height: 35px;
 }
